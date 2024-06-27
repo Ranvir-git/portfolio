@@ -51,5 +51,9 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "description": "<h1 align=\"center\" id=\"title\">Portfolio</h1>",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }

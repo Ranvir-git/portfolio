@@ -65,7 +65,7 @@ const handleMouseLeave2 = () =>{
                             </div>
                         </div>
                         <div className='projectright'>
-                            <h2>Vital Vault🗳️<hr/></h2>
+                            <h2>Covid_19🗳️<hr/></h2>
                             <p>Vital vault is a Full Stack Health Care💉 Data Management System🧑‍⚕️ where all
                                 the healthcare data of patients❤️‍🩹 can be stored📥 and retrieved📤 as
                                 per user’s and organisation’s needs.</p>
